@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">mini-program-geolocation-with-capacitor</string>
+    <string name="title_activity_main">mini-program-geolocation-with-capacitor</string>
+    <string name="package_name">com.miniprogram.geolocation</string>
+    <string name="custom_url_scheme">com.miniprogram.geolocation</string>
+</resources>
